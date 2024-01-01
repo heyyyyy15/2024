@@ -1,19 +1,20 @@
-html { 
-     background: black; 
- } 
-  
- h1 { 
-     color: antiquewhite; 
- } 
-  
- .redtext{ 
-     color:azure; 
- } 
-  
- .para{ 
-     color:antiquewhite; 
- } 
-  
- .lasthead{ 
-     color:azure; 
- }
+body {
+    background-color: black;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+.redtext {
+    color: azure;
+}
+
+.para {
+    color: antiquewhite;
+}
+
+.lasthead {
+    color: azure;
+}
+
